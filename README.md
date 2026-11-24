@@ -28,7 +28,7 @@ A remake of *Gun Warrior* — rebuilt in the **Call of Juarez: Bound in Blood** 
 
 [https://www.moddb.com/games/call-of-juarez-bound-in-blood/mods](https://www.moddb.com/games/call-of-juarez-bound-in-blood/mods)
 
-[https://archive.org/details/gun-warrior-the-rider-from-nowhere]([https://archive.org/details/gun-warrior-the-rider-from-nowhere])
+[https://archive.org/details/gun-warrior-the-rider-from-nowhere](https://archive.org/details/gun-warrior-the-rider-from-nowhere)
 
 [https://archive.org/download/callofjuarez-pc-redump/CALLOFJUAREZ-PC-REDUMP/Call%20of%20Juarez%20-%20Bound%20in%20Blood%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip](https://archive.org/download/callofjuarez-pc-redump/CALLOFJUAREZ-PC-REDUMP/Call%20of%20Juarez%20-%20Bound%20in%20Blood%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip)
 
