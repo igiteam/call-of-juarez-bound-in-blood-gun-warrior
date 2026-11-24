@@ -13,6 +13,8 @@ A remake of *Gun Warrior* — rebuilt in the **Call of Juarez: Bound in Blood** 
 
 [![Call of Juarez - Bound in Blood ChromED Editor](https://i.ytimg.com/vi/lQjdOt08WoQ/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLYt7I2wMmWNk)
 
+[![Gun Warrior : The Rider From Nowhere (Windows game 2004)](https://img.youtube.com/vi/YsAgGEAprcs/maxresdefault.jpg)](https://ytembed.macosxjs.com/?WXNBZ0dFQXByY3M)
+
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
@@ -22,7 +24,17 @@ A remake of *Gun Warrior* — rebuilt in the **Call of Juarez: Bound in Blood** 
 
 
 ## Reference Links
+[Call of Juarez Bound in Blood Tutorials](https://www.youtube.com/playlist?list=PLYt7I2wMmWNk)
 
+[https://www.moddb.com/games/call-of-juarez-bound-in-blood/mods](https://www.moddb.com/games/call-of-juarez-bound-in-blood/mods)
+
+[https://archive.org/details/gun-warrior-the-rider-from-nowhere]([https://archive.org/details/gun-warrior-the-rider-from-nowhere])
+
+[https://archive.org/download/callofjuarez-pc-redump/CALLOFJUAREZ-PC-REDUMP/Call%20of%20Juarez%20-%20Bound%20in%20Blood%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip](https://archive.org/download/callofjuarez-pc-redump/CALLOFJUAREZ-PC-REDUMP/Call%20of%20Juarez%20-%20Bound%20in%20Blood%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip)
+
+[![Gun Warrior](https://raw.githubusercontent.com/igiteam/call-of-juarez-bound-in-blood-gun-warrior/main/gunwarrior-cover.png)](https://archive.org/details/gun-warrior-the-rider-from-nowhere)
+
+[![Call of Juarez Bound in Blood](https://raw.githubusercontent.com/igiteam/call-of-juarez-bound-in-blood-gun-warrior/main/bound-in-blood.png)](https://archive.org/download/callofjuarez-pc-redump/CALLOFJUAREZ-PC-REDUMP/Call%20of%20Juarez%20-%20Bound%20in%20Blood%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.zip)
 
 
 ## Dev Environment
